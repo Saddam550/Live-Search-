@@ -1,0 +1,18 @@
+div#show {
+    background: #eaeaea;
+    width: 175px;
+    display:none;
+}
+
+
+
+
+pre:hover {
+	    /* on pre element hover, apply background, padding */
+    background: silver;
+    padding: 4.2px 5.2px;
+}
+/* Custom input styling */
+input#input {
+    color: rgb(38, 0, 255);
+}
